@@ -1,7 +1,7 @@
 import { Boundary } from "@/components/boundary";
 import Form from "../../form/form";
 
-export default function () {
+export default function Page() {
   return (
     <Boundary
       color="orange"

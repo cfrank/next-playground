@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { RedirectType } from "next/navigation";
-import { redirect } from "next/navigation";
+import { redirect, RedirectType } from "next/navigation";
 import CancelButton from "./cancel-button";
 
 export default function Form() {
