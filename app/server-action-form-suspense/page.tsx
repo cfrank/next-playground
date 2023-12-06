@@ -2,7 +2,7 @@ import { Suspense } from 'react';
 import Header from './header'
 import { Boundary } from '@/components/boundary';
 
-export default function Page({ children }: { children: React.ReactNode }) {
+export default function Page() {
   async function someServerAction(formData: FormData) {
     'use server';
 
