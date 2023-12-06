@@ -24,8 +24,8 @@ dependencies:
     specifier: ^0.294.0
     version: 0.294.0(react@18.2.0)
   next:
-    specifier: 14.0.4-canary.39
-    version: 14.0.4-canary.39(react-dom@18.2.0)(react@18.2.0)
+    specifier: 14.0.4-canary.46
+    version: 14.0.4-canary.46(react-dom@18.2.0)(react@18.2.0)
   prettier:
     specifier: 4.0.0-alpha.3
     version: 4.0.0-alpha.3
@@ -162,8 +162,8 @@ packages:
       '@jridgewell/resolve-uri': 3.1.1
       '@jridgewell/sourcemap-codec': 1.4.15
 
-  /@next/env@14.0.4-canary.39:
-    resolution: {integrity: sha512-ZqegVCldKlCtPCNCfkonnaoXJe5dQ/18bXOMXq+ry2O+2kPYuR6E2a8222hqc2h2PALqiWBx9jupQbti8Qu6SA==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/env/-/env-14.0.4-canary.39.tgz}
+  /@next/env@14.0.4-canary.46:
+    resolution: {integrity: sha512-NF0/IOyNHOAZVtTv07TytfQxmjaAEjmycsMxPKrYmua1+nunM8kTX3ZacTVB0uvX8oRHJ4+KGwlt+MQnWL7T1w==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/env/-/env-14.0.4-canary.46.tgz}
     dev: false
 
   /@next/eslint-plugin-next@14.0.3:
@@ -172,64 +172,64 @@ packages:
       glob: 7.1.7
     dev: true
 
-  /@next/swc-darwin-arm64@14.0.4-canary.39:
-    resolution: {integrity: sha512-krnVNhQt6G26mFzN9qh7dahTmkUWH9PObU9FajrJjzaUHorLiPQ+FHq9nvsQ2IfzQdI7uzYysCFLM/ey7vpAKw==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.0.4-canary.39.tgz}
+  /@next/swc-darwin-arm64@14.0.4-canary.46:
+    resolution: {integrity: sha512-kvsQKeTZb9/0u8hVJpYleMUlXgVlLnR0UIq/YBfLz16Eqsge6xBRKhdqyqFv4IT6E4fOTgzC6S3hkv3sePEm/A==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-darwin-x64@14.0.4-canary.39:
-    resolution: {integrity: sha512-NxcI8uzH0TEtHebdqjYN2yX7qjkwGJvFHUWYWKBs1cqbTJ7YlBw1bTeZRiInqAzCdqNv68WJmglX30nG7s6Tvw==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-darwin-x64/-/swc-darwin-x64-14.0.4-canary.39.tgz}
+  /@next/swc-darwin-x64@14.0.4-canary.46:
+    resolution: {integrity: sha512-0ZhOA1KOphGvvflJ2NqC+iIbwgDhSsdJEUxfZwtz5Gkd/UcAa1RQM45nPRx1QJCp2413SBdiiEYGCEC6vfmFvQ==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-darwin-x64/-/swc-darwin-x64-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-linux-arm64-gnu@14.0.4-canary.39:
-    resolution: {integrity: sha512-8bGz2dLVBarTqaDWbe/81tIzcGdV9IZ+btOIcRbDEGpr0zhfeaPxQtlX/Mh8fUByaqHdHePhe13p/lo34yisRg==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.0.4-canary.39.tgz}
+  /@next/swc-linux-arm64-gnu@14.0.4-canary.46:
+    resolution: {integrity: sha512-xOwf+wDIrxokHvaD34YDq4ynpL88bXTSR3cD9nkYgBfjpu+2GRHPR6sDO2rxTqFpaLDcgwntHs26guTNoDoT8A==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-linux-arm64-musl@14.0.4-canary.39:
-    resolution: {integrity: sha512-le3J4hftNSF6TIsr7YnXK+DP2o66dSSQ+X5Ess9YhIwuouSnnOvp2o2dCXlV4K45R7Qshnn/pqQDfXjnGKcJKg==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.0.4-canary.39.tgz}
+  /@next/swc-linux-arm64-musl@14.0.4-canary.46:
+    resolution: {integrity: sha512-CTUpwJmKyk9DurAWmQLBykmUwCRpYkppxlPyihopWSjQD78DYNa3BWK0pgMqJUeoTKHrfSHoXUtTNTIduluWVg==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-linux-x64-gnu@14.0.4-canary.39:
-    resolution: {integrity: sha512-GEE+y3KP6HxRi5McOjFZzPpnnXiMc3XwrFUO+RIaU6PtTB+83Y5ePlAQNAL0htUTNrqS/IvKPtqxy4Wa4CVm1w==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.0.4-canary.39.tgz}
+  /@next/swc-linux-x64-gnu@14.0.4-canary.46:
+    resolution: {integrity: sha512-y34v5NKASKveLq2x1/WmWiBCIAyNX5skFGPmAqzK+YtXaVy/JX9oWEyj7gw4R2Nh4FM++GCtx/THH2HHpAmEFQ==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-linux-x64-musl@14.0.4-canary.39:
-    resolution: {integrity: sha512-QtHuF5nCV0f93trF2R1+envIDbXk/94kuOB70B9PeHUcHeNg9wXlAvg90fHQb0I7YPxgnyd3my/thPMMA9+8hQ==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.0.4-canary.39.tgz}
+  /@next/swc-linux-x64-musl@14.0.4-canary.46:
+    resolution: {integrity: sha512-bx2uAOiWMVc2NSJpQbn/Q1mUUvaVW9v9NjOJfefpKTG+X+sU7/8oyVpMb1euc3hBjrkpdMcQAhGUKcnuY6RO4w==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-win32-arm64-msvc@14.0.4-canary.39:
-    resolution: {integrity: sha512-dC0mm++siJwNnJnA0Vzjk5BJ9/INjkS8uJo7XviNaQOKNYB7//WOubiN/UGTgXZlClZ59wIFG+m/X523cgBgsQ==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-14.0.4-canary.39.tgz}
+  /@next/swc-win32-arm64-msvc@14.0.4-canary.46:
+    resolution: {integrity: sha512-4YZrRiKt5VokanSZhb1B6EfsqfxIlEB3zaU5PZJTEUm6/Cmgy28f/dCGlHU6IwMhaIiba5NLBg45O1qmKrH0wA==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-win32-ia32-msvc@14.0.4-canary.39:
-    resolution: {integrity: sha512-voDSDBrSlYunkTnqPnugnaP30Y5xC4h0vMKe/ATC5jA7Ho8ADNKJAPJjQ9bestA6EdW7yLNaJ6sE/tKGlPMd9w==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-14.0.4-canary.39.tgz}
+  /@next/swc-win32-ia32-msvc@14.0.4-canary.46:
+    resolution: {integrity: sha512-ejCtgfKu6uyBLHotcQ5T6shtwWkGKUaj0OQsfqmRqnTCwIoM4BpmOGy/2GMxubA5K5qfqGU2+R4Y+jAkcV+Lkw==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
     optional: true
 
-  /@next/swc-win32-x64-msvc@14.0.4-canary.39:
-    resolution: {integrity: sha512-RAopWdU/gv0Hkp+xT83qXwFy1vtNMfYBZcpj8/Fq0AwD01/MlZqXgZVrvyUCg+5SU3hWeUhfm1NIECo1maALKg==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.0.4-canary.39.tgz}
+  /@next/swc-win32-x64-msvc@14.0.4-canary.46:
+    resolution: {integrity: sha512-o1R3AG11b5ZX765vV07fNM0hzIgjEFFNm0YSmUau9VFlFIqfTPcDBVEhNG8fskGm4QPckpyfizX/ORfxNyVfWg==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.0.4-canary.46.tgz}
     engines: {node: '>= 10'}
     requiresBuild: true
     dev: false
@@ -2075,8 +2075,8 @@ packages:
   /natural-compare@1.4.0:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
 
-  /next@14.0.4-canary.39(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-OX0eHwddKlJRVs2nHWFu1ClheRRFesg6KF4+IekiEFLKdBu9LePIKOgTrLGNixDizpG4YmSGmIt2YYp0F0CNDg==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/next/-/next-14.0.4-canary.39.tgz}
+  /next@14.0.4-canary.46(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-9AIan7WLpuoMzFDzlToQhHcbaoSJJ180O+Qi5H0q0u7axs2Yfzn/DapWv0g/2nHo0BfREGpWnJjzfQVmxNsAcA==, tarball: https://artifactory.g.devqa.gcp.dev.paypalinc.com/artifactory/api/npm/npm-all/next/-/next-14.0.4-canary.46.tgz}
     engines: {node: '>=18.17.0'}
     hasBin: true
     peerDependencies:
@@ -2090,7 +2090,7 @@ packages:
       sass:
         optional: true
     dependencies:
-      '@next/env': 14.0.4-canary.39
+      '@next/env': 14.0.4-canary.46
       '@swc/helpers': 0.5.2
       busboy: 1.6.0
       caniuse-lite: 1.0.30001565
@@ -2101,15 +2101,15 @@ packages:
       styled-jsx: 5.1.1(react@18.2.0)
       watchpack: 2.4.0
     optionalDependencies:
-      '@next/swc-darwin-arm64': 14.0.4-canary.39
-      '@next/swc-darwin-x64': 14.0.4-canary.39
-      '@next/swc-linux-arm64-gnu': 14.0.4-canary.39
-      '@next/swc-linux-arm64-musl': 14.0.4-canary.39
-      '@next/swc-linux-x64-gnu': 14.0.4-canary.39
-      '@next/swc-linux-x64-musl': 14.0.4-canary.39
-      '@next/swc-win32-arm64-msvc': 14.0.4-canary.39
-      '@next/swc-win32-ia32-msvc': 14.0.4-canary.39
-      '@next/swc-win32-x64-msvc': 14.0.4-canary.39
+      '@next/swc-darwin-arm64': 14.0.4-canary.46
+      '@next/swc-darwin-x64': 14.0.4-canary.46
+      '@next/swc-linux-arm64-gnu': 14.0.4-canary.46
+      '@next/swc-linux-arm64-musl': 14.0.4-canary.46
+      '@next/swc-linux-x64-gnu': 14.0.4-canary.46
+      '@next/swc-linux-x64-musl': 14.0.4-canary.46
+      '@next/swc-win32-arm64-msvc': 14.0.4-canary.46
+      '@next/swc-win32-ia32-msvc': 14.0.4-canary.46
+      '@next/swc-win32-x64-msvc': 14.0.4-canary.46
     transitivePeerDependencies:
       - '@babel/core'
       - babel-plugin-macros
